@@ -1,7 +1,7 @@
 version: "1.2.1"
 
-# apiUrl: mydomain.dev
-# frontUrl: mydomain.dev
+apiUrl: mydomain.dev
+frontUrl: mydomain.dev
 
 # Only for Development, Staging or PoC, you should use a managed Redis instance for Production
 redis:
